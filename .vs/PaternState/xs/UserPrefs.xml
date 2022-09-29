@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0E7C048C-C500-4C08-B271-65FE36192579}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaternState PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaternState/StandCar.cs">
+    <Files>
+      <File FileName="PaternState/Program.cs" Line="11" Column="50" />
+      <File FileName="PaternState/Car.cs" Line="19" Column="1" />
+      <File FileName="PaternState/CarStaneState.cs" Line="9" Column="25" />
+      <File FileName="PaternState/StandCar.cs" Line="17" Column="47" />
+      <File FileName="PaternState/EngnineCarState.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaternState" expanded="True">
+            <Node name="PaternState" expanded="True">
+              <Node name="StandCar.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
